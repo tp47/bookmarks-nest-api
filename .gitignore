@@ -38,3 +38,4 @@ lerna-debug.log*
 
 # DB
 /prisma/migrations
+docker-compose.yml
