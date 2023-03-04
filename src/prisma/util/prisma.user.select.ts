@@ -3,7 +3,7 @@ export const userDefaultSelect = {
   email: true,
   firstName: true,
   lastName: true,
-}
+};
 
 export interface UserDefault {
   id: number;
